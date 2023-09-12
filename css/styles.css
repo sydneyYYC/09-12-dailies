@@ -1,4 +1,15 @@
-html {
-  font-family:Arial, Helvetica, sans-serif;
-  
+body {
+  font-family: 'Roboto',Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+max-width: 85ch;
+}
+
+main {
+  max-width: 85ch;
+  margin:auto;
 }
